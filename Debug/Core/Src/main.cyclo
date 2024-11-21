@@ -1,0 +1,9 @@
+../Core/Src/main.c:75:13:DebugPrint	1
+../Core/Src/main.c:81:6:Max30102Setup	1
+../Core/Src/main.c:91:6:Max30102Loop	11
+../Core/Src/main.c:186:5:main	1
+../Core/Src/main.c:234:6:SystemClock_Config	3
+../Core/Src/main.c:281:13:MX_I2C1_Init	2
+../Core/Src/main.c:315:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:348:13:MX_GPIO_Init	1
+../Core/Src/main.c:388:6:Error_Handler	1
